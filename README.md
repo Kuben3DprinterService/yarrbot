@@ -16,5 +16,6 @@
 ## Mangende deler
 - Hotend
 - Ekstruder motor
+- Bowdentube
 
 ## Ting som må fikses
