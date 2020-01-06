@@ -3,10 +3,9 @@
 
 ## Deltaker
 - >Allenski
-- ~~Elnar~~
+- Elnar
 - Marcusb
 - Ameer
-- Suri
 
 ## Status
 
