@@ -2,8 +2,8 @@
 [bilde]
 
 ## Deltaker
-- Allenski
-- Elnar
+- >Allenski
+- ~~Elnar
 - Marcusb
 - Ameer
 - Suri
