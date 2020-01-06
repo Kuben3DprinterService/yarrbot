@@ -14,7 +14,7 @@
 ## Specifikasjoner
 
 ## Mangende deler
-- hotend
-- ekstruder motor
+- Hotend
+- Ekstruder motor
 
 ## Ting som må fikses
