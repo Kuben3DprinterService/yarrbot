@@ -2,7 +2,7 @@
 [bilde]
 
 ## Deltaker
-- Allenski kukbura
+- Allenski
 - Elnar
 - Marcusb
 - Ameer
