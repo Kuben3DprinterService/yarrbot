@@ -2,7 +2,7 @@
 [bilde]
 
 ## Deltaker
-- >Allenski
+- Allenski
 - Elnar
 - Marcusb
 - Ameer
