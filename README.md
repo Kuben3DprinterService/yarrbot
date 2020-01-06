@@ -10,6 +10,7 @@
 - Suri
 
 ## Status
+mangler hotend
 
 ## Specifikasjoner
 
