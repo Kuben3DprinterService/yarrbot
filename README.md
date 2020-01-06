@@ -2,7 +2,7 @@
 [bilde]
 
 ## Deltaker
-- Navn her
+-allenski
 
 ## Status
 
