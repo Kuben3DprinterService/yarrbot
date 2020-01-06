@@ -15,5 +15,6 @@
 
 ## Mangende deler
 - hotend
+- ekstruder motor
 
 ## Ting som må fikses
