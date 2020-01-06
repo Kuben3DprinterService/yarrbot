@@ -2,9 +2,9 @@
 [bilde]
 
 ## Deltaker
--allenski
--Elnar
--Marcusb
+#-Allenski
+#-Elnar
+#-Marcusb
 
 ## Status
 
