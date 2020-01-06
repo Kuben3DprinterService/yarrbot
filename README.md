@@ -10,10 +10,10 @@
 - Suri
 
 ## Status
-mangler hotend
 
 ## Specifikasjoner
 
 ## Mangende deler
+hotend
 
 ## Ting som må fikses
