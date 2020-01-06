@@ -14,6 +14,6 @@
 ## Specifikasjoner
 
 ## Mangende deler
-mangler hotend
+- hotend
 
 ## Ting som må fikses
