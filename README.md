@@ -3,7 +3,7 @@
 
 ## Deltaker
 - >Allenski
-- ~~Elnar
+- ~~Elnar~~
 - Marcusb
 - Ameer
 - Suri
