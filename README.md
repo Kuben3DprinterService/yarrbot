@@ -3,6 +3,8 @@
 
 ## Deltaker
 -allenski
+-Elnar
+-Marcusb
 
 ## Status
 
