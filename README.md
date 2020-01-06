@@ -1,5 +1,5 @@
 # Yarrbot 3D printer
-![Yarr](minnie.jpg)
+![Yarr](ULTIMAKER-ORIGINAL.jpg)
 
 
 ## Deltaker
