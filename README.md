@@ -2,10 +2,11 @@
 [bilde]
 
 ## Deltaker
-- >Allenski
+- Allenski kukbura
 - Elnar
 - Marcusb
 - Ameer
+- Suri
 
 ## Status
 
