@@ -6,6 +6,7 @@
 - Elnar
 - Marcusb
 - Ameer
+- Suri
 
 ## Status
 
