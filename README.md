@@ -3,11 +3,11 @@
 
 
 ## Deltaker
-- Allenski
-- Elnar
-- Marcusb :)
-- Ameer
-- Suri
+- Allenski :)
+- Elnar :)
+- Marcusb :(
+- Ameer :)
+- Suri :)
 
 ## Status
 
