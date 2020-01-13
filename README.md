@@ -18,8 +18,10 @@
 
 ## Mangende deler
 - Hotend
-- Ekstruder
+- Extruder
 - Bowdentube
 
 ## Ting som må fikses
-- Mount til ekstruder motor
+- Mount til extruder motor
+- X akse stang
+	- Må strammes
