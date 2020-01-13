@@ -10,12 +10,16 @@
 - Suri :)
 
 ## Status
+- Defekt
+	- Må erstatte ødelagte deler
+	- Må skaffe manglene deler
 
 ## Specifikasjoner
 
 ## Mangende deler
 - Hotend
-- Ekstruder motor
+- Ekstruder
 - Bowdentube
 
 ## Ting som må fikses
+- Mount til ekstruder motor
