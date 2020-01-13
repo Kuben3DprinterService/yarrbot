@@ -5,7 +5,7 @@
 ## Deltaker
 - Allenski :)
 - Elnar :)
-- Marcusb :(
+- Marcusb :)
 - Ameer :)
 - Suri :)
 
