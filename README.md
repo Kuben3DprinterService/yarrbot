@@ -23,7 +23,8 @@
 - Extruder
 - Bowdentube
 
-## Ting som må fikses
+## Falafel som må fikses
 - Mount til extruder motor
 - X akse stang
 	- Må strammes
+	
