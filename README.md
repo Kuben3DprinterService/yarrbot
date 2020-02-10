@@ -15,10 +15,10 @@
 	- Må skaffe manglene deler
 
 ## Spesifikasjoner
-## bevegelsesystem
-## bashir glemte passord
+### bevegelsesystem
+### bashir glemte passord
 - Har du prøvd "passord123"?
-## Mangende deler
+### Mangende deler
 - Hotend
 - Extruder
 - Bowdentube
