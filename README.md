@@ -15,7 +15,7 @@
 	- Må skaffe manglene deler
 
 ## Spesifikasjoner
-
+### bevegelsesystem
 ## Mangende deler
 - Hotend
 - Extruder
