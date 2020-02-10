@@ -14,7 +14,7 @@
 	- Må erstatte ødelagte deler
 	- Må skaffe manglene deler
 
-## Specifikasjoner
+## Spesifikasjoner
 
 ## Mangende deler
 - Hotend
