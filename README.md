@@ -17,6 +17,7 @@
 ## Spesifikasjoner
 
 ### Bevegelsesystem
+- Step motorer for x, y og z
 
 
 ### Mangende deler
