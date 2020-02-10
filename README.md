@@ -16,7 +16,7 @@
 
 ## Spesifikasjoner
 
-### bevegelsesystem
+### Bevegelsesystem
 
 
 ### Mangende deler
