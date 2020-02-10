@@ -16,6 +16,7 @@
 
 ## Spesifikasjoner
 ### bevegelsesystem
+#### bashir glemte passord
 ## Mangende deler
 - Hotend
 - Extruder
