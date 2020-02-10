@@ -7,7 +7,7 @@
 - Elnar :)
 - Marcusb :)
 - Ameer :)
-- Suri :)
+- Siri :)
 
 ## Status
 - Defekt
