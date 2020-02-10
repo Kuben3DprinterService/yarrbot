@@ -23,7 +23,9 @@
 - Extruder
 - Bowdentube
 
+
 ### Må fikses
 - Mount til extruder motor
 - X akse stang
 	- Må strammes
+	
