@@ -1,13 +1,13 @@
 # Yarrbot 3D printer
 ![Yarr](ULTIMAKER-ORIGINAL.jpg)
 
-![Yarr](einar2.jpg)
+![box](einar2.jpg)
 
 
 ## Deltaker
 - Allenski :)
 - Elnar :)
-- Marcusb :)
+- Marcusb :|
 - Ameer :)
 - Suri :)
 
@@ -15,13 +15,13 @@
 - Defekt 
 	- Må erstatte ødelagte deler
 	- Må skaffe manglene deler
-		-
 
 ## Spesifikasjoner
 
 
 ### Bevegelsesystem
 - Step motorer for x, y og z
+- Extruder motor
 
 
 ### Mangende deler
@@ -34,4 +34,5 @@
 - Mount til extruder motor
 - X akse stang
 	- Må strammes
+- Extruder / Hot end (printer hode)
 	
