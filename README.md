@@ -1,6 +1,8 @@
 # Yarrbot 3D printer
 ![Yarr](ULTIMAKER-ORIGINAL.jpg)
 
+![Yarr](einar1.jpg)
+
 
 ## Deltaker
 - Allenski :)
@@ -10,11 +12,13 @@
 - Suri :)
 
 ## Status
-- Defekt
+- Defekt 
 	- Må erstatte ødelagte deler
 	- Må skaffe manglene deler
+		-
 
 ## Spesifikasjoner
+
 
 ### Bevegelsesystem
 - Step motorer for x, y og z
